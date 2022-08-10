@@ -1,6 +1,6 @@
 # RobotSense
 
-
+![](https://github.com/Prevalenter/RobotSense/blob/main/data/img.jpg)
 
 硬件设备：Intel RealSense 435d
 

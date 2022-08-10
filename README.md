@@ -12,3 +12,11 @@
 
 
 
+### 文件组织
+
+get_pcd_vedio_with_key .py 获取多角度的点云数据
+
+concatenation.py 将多角度的点云数据进行拼接
+
+calcu_axis.py 根据检测出的二维码坐标计算三维坐标轴
+

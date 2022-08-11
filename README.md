@@ -14,7 +14,7 @@
 
 ### 文件组织
 
-get_pcd_vedio_with_key .py 获取多角度的点云数据
+get_pcd_vedio_with_key .py 获取多角度的点云数据，每次按下按键'a'时保存，数据保存在data文件夹下
 
 concatenation.py 将多角度的点云数据进行拼接
 
